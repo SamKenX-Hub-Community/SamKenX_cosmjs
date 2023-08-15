@@ -2388,7 +2388,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "semver",\
-        "npm:7.3.8"\
+        "npm:7.5.4"\
       ],\
       [\
         "serialize-javascript",\
@@ -3583,7 +3583,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ledger-cosmos-js", "npm:2.1.8"],\
             ["nyc", "npm:15.1.0"],\
             ["prettier", "npm:2.8.1"],\
-            ["semver", "npm:7.3.8"],\
+            ["semver", "npm:7.5.4"],\
             ["ses", "npm:0.11.1"],\
             ["source-map-support", "npm:0.5.21"],\
             ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],\
@@ -11086,6 +11086,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/semver-npm-7.3.8-25a996cb4f-ba9c7cbbf2.zip/node_modules/semver/",\
           "packageDependencies": [\
             ["semver", "npm:7.3.8"],\
+            ["lru-cache", "npm:6.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:7.5.4", {\
+          "packageLocation": "./.yarn/cache/semver-npm-7.5.4-c4ad957fcd-12d8ad952f.zip/node_modules/semver/",\
+          "packageDependencies": [\
+            ["semver", "npm:7.5.4"],\
             ["lru-cache", "npm:6.0.0"]\
           ],\
           "linkType": "HARD"\
